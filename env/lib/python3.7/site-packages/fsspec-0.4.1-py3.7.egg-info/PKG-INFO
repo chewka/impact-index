@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: fsspec
+Version: 0.4.1
+Summary: File-system specification
+Home-page: http://github.com/intake/filesystem_spec
+Maintainer: Martin Durant
+Maintainer-email: mdurant@anaconda.com
+License: BSD
+Description: UNKNOWN
+Keywords: file
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Requires-Python: >=3.5

@@ -1,0 +1,508 @@
+{
+    "Albany, NY": [
+        "Albany-Schenectady-Troy, NY"
+    ],
+    "Albuquerque, NM": [
+        "Albuquerque, NM",
+        "Santa Fe, NM",
+        "Espa\u00f1ola, NM",
+        "Las Vegas, NM",
+        "Grants, NM",
+        "Los Alamos, NM"
+    ],
+    "Anchorage, AK": [
+        "Anchorage, AK"
+    ],
+    "Atlanta, GA": [
+        "Atlanta-Sandy Springs-Roswell, GA",
+        "Athens-Clarke, GA",
+        "Gainesville, GA",
+        "LaGrange, GA",
+        "Jefferson, GA",
+        "Calhoun, GA",
+        "Cedartown, GA",
+        "Thomaston, GA"
+    ],
+    "Augusta, GA": [
+        "Augusta-Richmond, GA-SC"
+    ],
+    "Austin, TX": [
+        "Austin-Round Rock, TX"
+    ],
+    "Baltimore, MD": [
+        "Baltimore-Towson, MD",
+        "Baltimore, MD"
+    ],
+    "Baton Rouge, LA": [
+        "Baton Rouge, LA"
+    ],
+    "Birmingham, AL": [
+        "Birmingham-Hoover, AL",
+        "Cullman, AL",
+        "Talladega-Sylacauga, AL"
+    ],
+    "Boise, ID": [
+        "Boise City-Nampa, ID",
+        "Ontario, OR-ID",
+        "Mountain Home, ID"
+    ],
+    "Boston, MA": [
+        "Boston-Cambridge-Newton, MA-NH",
+        "Worcester, MA",
+        "Manchester-Nashua, NH",
+        "Concord, NH",
+        "Laconia, NH"
+    ],
+    "Buffalo, NY": [
+        "Buffalo-Cheektowaga-Niagara Falls, NY",
+        "Olean, NY"
+    ],
+    "Charlotte, NC": [
+        "Charlotte-Concord-Gastonia, NC-SC",
+        "Shelby, NC",
+        "Albemarle, NC"
+    ],
+    "Chattanooga, TN": [
+        "Chattanooga, TN-GA",
+        "Dalton, GA",
+        "Cleveland, TN",
+        "Scottsboro, AL",
+        "Athens, TN",
+        "Dayton, TN"
+    ],
+    "Chicago, IL": [
+        "Chicago-Naperville-Joliet, IL-IN-WI",
+        "Kankakee-Bradley, IL",
+        "Michigan City-La Porte, IN"
+    ],
+    "Cincinnati, OH": [
+        "Cincinnati, OH-KY-IN",
+        "Wilmington, OH",
+        "Maysville, KY"
+    ],
+    "Clarksville, TN": [
+        "Clarksville, TN-KY"
+    ],
+    "Cleveland, OH": [
+        "Cleveland\u2013Elyria, OH",
+        "Akron, OH",
+        "Canton\u2013Massillon, OH",
+        "Ashtabula, OH",
+        "New Philadelphia-Dover, OH",
+        "Norwalk, OH",
+        "Sandusky, OH",
+        "Wooster, OH"
+    ],
+    "Colorado Springs, CO": [
+        "Colorado Springs, CO"
+    ],
+    "Columbia, SC": [
+        "Columbia, SC",
+        "Orangeburg, SC",
+        "Newberry, SC"
+    ],
+    "Columbus, GA": [
+        "Columbus, GA-AL",
+        "Auburn-Opelika, AL",
+        "Valley, AL"
+    ],
+    "Columbus, OH": [
+        "Columbus, OH",
+        "Bellefontaine, OH",
+        "Cambridge, OH",
+        "Chillicothe, OH",
+        "Marion, OH",
+        "Mount Vernon, OH",
+        "Washington Court House, OH",
+        "Zanesville, OH"
+    ],
+    "Corpus Christi, TX": [
+        "Corpus Christi, TX",
+        "Kingsville, TX"
+    ],
+    "Dallas, TX": [
+        "Dallas-Fort Worth-Arlington, TX",
+        "Sherman-Denison, TX",
+        "Athens, TX",
+        "Granbury, TX",
+        "Gainesville, TX",
+        "Bonham, TX",
+        "Mineral Wells, TX"
+    ],
+    "Dayton, OH": [
+        "Dayton, OH",
+        "Springfield, OH",
+        "Greenville, OH",
+        "Sidney, OH",
+        "Urbana, OH"
+    ],
+    "Denver, CO": [
+        "Denver-Aurora-Lakewood, CO",
+        "Boulder, CO",
+        "Greeley, CO"
+    ],
+    "Des Moines, IA": [
+        "Des Moines-West Des Moines, IA",
+        "Newton, IA",
+        "Pella, IA"
+    ],
+    "Detroit, MI": [
+        "Detroit-Warren-Dearborn, MI",
+        "Flint, MI",
+        "Ann Arbor, MI",
+        "Monroe, MI",
+        "Adrian, MI"
+    ],
+    "El Paso, TX": [
+        "El Paso, TX"
+    ],
+    "Fayetteville, NC": [
+        "Fayetteville, NC",
+        "Laurinburg, NC"
+    ],
+    "Fort Wayne, IN": [
+        "Fort Wayne, IN",
+        "Kendallville, IN",
+        "Auburn, IN",
+        "Huntington, IN",
+        "Decatur, IN"
+    ],
+    "Fresno-Bakersfield, CA": [
+        "Fresno, CA",
+        "Madera, CA",
+        "Bakersfield, CA",
+        "Merced, CA"
+    ],
+    "Grand Rapids, MI": [
+        "Grand Rapids-Wyoming, MI",
+        "Muskegon, MI",
+        "Holland, MI",
+        "Ionia, MI",
+        "Big Rapids, MI"
+    ],
+    "Greensboro, NC": [
+        "Greensboro-High Point, NC",
+        "Winston-Salem, NC",
+        "Burlington, NC",
+        "Mount Airy, NC"
+    ],
+    "Greenville, SC": [
+        "Greenville-Anderson-Mauldin, SC",
+        "Spartanburg, SC",
+        "Greenwood, SC",
+        "Seneca, SC",
+        "Gaffney, SC",
+        "Union, SC"
+    ],
+    "Hartford, CT": [
+        "Hartford-West Hartford-East Hartford, CT",
+        "Willimantic, CT",
+        "Norwich-New London, CT"
+    ],
+    "Honolulu, HI": [
+        "Honolulu, HI"
+    ],
+    "Houston, TX": [
+        "Houston-Sugar Land-Baytown, TX",
+        "Huntsville, TX",
+        "Bay City, TX"
+    ],
+    "Huntsville, AL": [
+        "Huntsville, AL",
+        "Decatur, AL",
+        "Albertville, AL"
+    ],
+    "Idaho Falls, ID": [
+        "Idaho Falls, ID",
+        "Rexburg, ID",
+        "Blackfoot, ID"
+    ],
+    "Indianapolis, IN": [
+        "Indianapolis-Carmel, IN",
+        "Anderson, IN",
+        "Columbus, IN",
+        "New Castle, IN",
+        "Crawfordsville, IN",
+        "North Vernon, IN"
+    ],
+    "Jacksonville, FL": [
+        "Jacksonville, FL",
+        "Palatka, FL",
+        "St Marys, GA"
+    ],
+    "Kansas City, MO": [
+        "Kansas City, MO-KS",
+        "St Joseph, MO-KS",
+        "Lawrence, KS",
+        "Warrensburg, MO",
+        "Ottawa, KS",
+        "Atchison, KS"
+    ],
+    "Knoxville, TN": [
+        "Knoxville, TN",
+        "Morristown, TN",
+        "Sevierville, TN",
+        "Harriman, TN",
+        "La Follette, TN",
+        "Newport, TN"
+    ],
+    "Laredo, TX": [
+        "Laredo, TX"
+    ],
+    "Las Vegas, NV": [
+        "Las Vegas\u2013Paradise, NV",
+        "Pahrump, NV",
+        "Lake Havasu City-Kingman, AZ"
+    ],
+    "Lexington, KY": [
+        "Lexington-Fayette, KY",
+        "Richmond-Berea, KY",
+        "Frankfort, KY",
+        "Mount Sterling, KY"
+    ],
+    "Lincoln, NE": [
+        "Lincoln, NE"
+    ],
+    "Little Rock, AR": [
+        "Little Rock-North Little Rock-Conway, AR",
+        "Pine Bluff, AR",
+        "Searcy, AR"
+    ],
+    "Los Angeles, CA": [
+        "Los Angeles-Long Beach-Santa Ana, CA",
+        "Riverside-San Bernardino-Ontario, CA",
+        "Oxnard-Thousand Oaks-Ventura, CA",
+        "Santa Barbara-Santa Maria-Goleta, CA"
+    ],
+    "Louisville, KY": [
+        "Louisville-Jefferson, KY-IN",
+        "Elizabethtown, KY",
+        "Scottsburg, IN"
+    ],
+    "Lubbock, TX": [
+        "Lubbock, TX",
+        "Levelland, TX"
+    ],
+    "Macon, GA": [
+        "Macon, GA",
+        "Warner Robins, GA"
+    ],
+    "Madison, WI": [
+        "Madison, WI",
+        "Janesville, WI",
+        "Baraboo, WI"
+    ],
+    "Medford, OR": [
+        "Medford, OR",
+        "Grants Pass, OR"
+    ],
+    "Memphis, TN": [
+        "Memphis, TN-MS-AR"
+    ],
+    "Miami, FL": [
+        "Miami-Fort Lauderdale-Pompano Beach, FL",
+        "Port St Lucie, FL",
+        "Sebastian-Vero Beach",
+        "Okeechobee, FL"
+    ],
+    "Milwaukee, WI": [
+        "Milwaukee-Waukesha-West Allis, WI",
+        "Racine, WI",
+        "Whitewater, WI",
+        "Beaver Dam, WI",
+        "Watertown-Fort Atkinson, WI"
+    ],
+    "Minneapolis, MN": [
+        "Minneapolis-St Paul-Bloomington, MN-WI",
+        "St Cloud, MN",
+        "Faribault-Northfield, MN",
+        "Red Wing, MN",
+        "Hutchinson, MN"
+    ],
+    "Mobile, AL": [
+        "Mobile, AL",
+        "Daphne-Fairhope-Foley, AL"
+    ],
+    "Montgomery, AL": [
+        "Montgomery, AL"
+    ],
+    "Nashville, TN": [
+        "Nashville-Davidson-Murfreesboro-Franklin, TN",
+        "Columbia, TN"
+    ],
+    "New Orleans, LA": [
+        "New Orleans-Metairie, LA",
+        "Hammond, LA",
+        "Bogalusa, LA"
+    ],
+    "New York City, NY": [
+        "New York-Northern New Jersey-Long Island, NY-NJ-PA",
+        "New York-Newark-Jersey City, NY-NJ-PA",
+        "Bridgeport-Stamford-Norwalk, CT",
+        "New Haven-Milford, CT",
+        "Poughkeepsie-Newburgh-Middletown, NY",
+        "Trenton-Ewing, NJ",
+        "Trenton, NJ",
+        "Torrington, CT",
+        "Kingston, NY",
+        "Allentown-Bethlehem-Easton, PA-NJ",
+        "East Stroudsburg, PA"
+    ],
+    "Oklahoma City, OK": [
+        "Oklahoma City, OK",
+        "Shawnee, OK \u00b5SA"
+    ],
+    "Omaha, NE": [
+        "Omaha-Council Bluffs, NE-IA",
+        "Fremont, NE"
+    ],
+    "Orlando, FL": [
+        "Orlando-Kissimmee, FL",
+        "Deltona-Daytona Beach-Ormond Beach, FL",
+        "Palm Coast, FL",
+        "The Villages, FL"
+    ],
+    "Philadelphia, PA": [
+        "Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",
+        "Reading, PA",
+        "Vineland-Millville-Bridgeton, NJ"
+    ],
+    "Phoenix, AZ": [
+        "Phoenix-Mesa-Scottsdale, AZ"
+    ],
+    "Pittsburgh, PA": [
+        "Pittsburgh, PA",
+        "Weirton-Steubenville, WV-OH",
+        "New Castle, PA",
+        "Indiana, PA"
+    ],
+    "Portland, OR": [
+        "Portland-Vancouver-Hillsboro, OR-WA",
+        "Longview, WA",
+        "Salem, OR"
+    ],
+    "Providence, RI": [
+        "Providence-New Bedford-Fall River, RI-MA"
+    ],
+    "Raleigh, NC": [
+        "Raleigh, NC",
+        "Durham-Chapel Hill, NC",
+        "Dunn, NC",
+        "Sanford, NC",
+        "Oxford, NC",
+        "Henderson, NC"
+    ],
+    "Reno, NV": [
+        "Reno\u2013Sparks, NV",
+        "Carson City, NV",
+        "Fernley, NV",
+        "Gardnerville Ranchos, NV \u00b5SA",
+        "Truckee-Grass Valley, CA"
+    ],
+    "Richmond-Norfolk, VA": [
+        "Richmond, VA",
+        "Virginia Beach-Norfolk-Newport News, VA-NC"
+    ],
+    "Rochester, NY": [
+        "Rochester, NY",
+        "Batavia, NY",
+        "Seneca Falls, NY"
+    ],
+    "Sacramento, CA": [
+        "Sacramento-Arden Arcade-Roseville, CA",
+        "Yuba City, CA",
+        "Stockton, CA"
+    ],
+    "Salt Lake City, UT": [
+        "Salt Lake City, UT",
+        "Ogden-Clearfield, UT",
+        "Provo-Orem, UT",
+        "Summit Park, UT",
+        "Heber, UT"
+    ],
+    "San Antonio, TX": [
+        "San Antonio, TX"
+    ],
+    "San Diego, CA": [
+        "San Diego-Carlsbad-San Marcos, CA"
+    ],
+    "San Francisco, CA": [
+        "San Francisco-Oakland-Hayward, CA",
+        "San Jose-Sunnyvale-Santa Clara, CA",
+        "Santa Rosa-Petaluma, CA",
+        "Vallejo-Fairfield, CA",
+        "Santa Cruz-Watsonville, CA",
+        "Napa, CA"
+    ],
+    "Savannah, GA": [
+        "Savannah, GA",
+        "Hinesville, GA",
+        "Statesboro, GA"
+    ],
+    "Seattle, WA": [
+        "Seattle-Tacoma-Bellevue, WA",
+        "Olympia, WA",
+        "Bremerton-Silverdale, WA",
+        "Mount Vernon-Anacortes, WA",
+        "Oak Harbor, WA",
+        "Centralia, WA",
+        "Shelton, WA"
+    ],
+    "Shreveport, LA": [
+        "Shreveport-Bossier City, LA"
+    ],
+    "Spokane, WA": [
+        "Spokane-Spokane Valley, WA",
+        "Coeur d'Alene, ID"
+    ],
+    "Springfield, MO": [
+        "Springfield, MO"
+    ],
+    "St. Louis, MO": [
+        "St Louis, MO-IL",
+        "Farmington, MO",
+        "Centralia, IL"
+    ],
+    "Syracuse, NY": [
+        "Syracuse, NY",
+        "Auburn, NY"
+    ],
+    "Tallahassee, FL": [
+        "Tallahassee, FL",
+        "Bainbridge, GA"
+    ],
+    "Tampa, FL": [
+        "Tampa-St Petersburg-Clearwater, FL",
+        "North Port-Bradenton-Sarasota, FL"
+    ],
+    "Toledo, OH": [
+        "Toledo, OH",
+        "Port Clinton, OH"
+    ],
+    "Tucson, AZ": [
+        "Tucson, AZ",
+        "Nogales, AZ"
+    ],
+    "Tulsa, OK": [
+        "Tulsa, OK",
+        "Muskogee, OK \u00b5SA",
+        "Bartlesville, OK \u00b5SA",
+        "Tahlequah, OK \u00b5SA"
+    ],
+    "Tuscaloosa, AL": [
+        "Tuscaloosa, AL"
+    ],
+    "Virginia Beach, VA": [
+        "Virginia Beach-Norfolk-Newport News, VA-NC"
+    ],
+    "Washington, DC": [
+        "Washington-Arlington-Alexandria, DC-VA-MD-WV",
+        "Winchester, VA-WV",
+        "Lexington Park, MD",
+        "Culpeper, VA"
+    ],
+    "Wichita, KS": [
+        "Wichita, KS",
+        "Winfield, KS"
+    ]
+}
